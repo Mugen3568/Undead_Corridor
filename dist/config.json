@@ -1,0 +1,16 @@
+{
+  "controls": {
+    "MOVE_FORWARD": 119,
+    "MOVE_BACK": 115,
+    "MOVE_LEFT": 97,
+    "MOVE_RIGHT": 100,
+    "SHOOT": 32,
+    "SPECIAL_ABILITY": 113
+  },
+  "resolution_index": 1,
+  "fullscreen": false,
+  "menu_volume": 0.4,
+  "game_volume": 0.6,
+  "effects_volume": 0.7,
+  "mouse_sensitivity": 0.0003
+}
